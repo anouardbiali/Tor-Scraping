@@ -8,9 +8,7 @@ import os
 import time 
 from fake_useragent import UserAgent
 
-fake = Faker() 
 useragent = UserAgent()
-
 
 def switchIP():
     #Channel Traffic from specific country or countries
