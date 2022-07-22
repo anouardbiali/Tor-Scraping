@@ -5,5 +5,7 @@ In this script we are using tor as browser to crawl websites without getting blo
 Requirements : 
 
 Install the necessary packages
-Download Tor browser and geckodriver for mozilla 
+
+Download Tor browser and geckodriver for mozilla
+
 Run The Code
